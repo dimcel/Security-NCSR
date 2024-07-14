@@ -1,0 +1,1 @@
+dataset --> https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html -->  A 10% subset. (2.1M; 75M Uncompressed)
